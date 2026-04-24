@@ -117,7 +117,7 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**Gomathi P**
+**sandhya0084**
 
 ---
 
