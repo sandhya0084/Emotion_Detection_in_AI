@@ -1,0 +1,10 @@
+venv/
+.deepface/
+__pycache__/
+*.pyc
+*.h5
+*.pt
+*.pkl
+*.onnx
+*.mp4
+*.zip
